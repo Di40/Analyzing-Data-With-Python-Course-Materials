@@ -1,4 +1,4 @@
-# AnalyzingDataWithPython
+# Analyzing data with Python - course
 
 
 This repository contains the materials for the **Analyzing Data with Python** course offered by IBM - [DA0101EN](https://learning.edx.org/course/course-v1:IBM+DA0101EN+3T2020/home).
